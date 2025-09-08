@@ -27,8 +27,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to Develop an application that uses Font Size using Android Studio .
-Developed by: SRINIVASAN V
-RegisterNumber:  212222043008
+Developed by: DHINESH.P
+RegisterNumber:  212222043001
 */
 ```
 
